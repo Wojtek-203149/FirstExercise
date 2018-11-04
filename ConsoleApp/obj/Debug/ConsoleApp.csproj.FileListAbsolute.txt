@@ -1,0 +1,10 @@
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\bin\Debug\FirstExercise.dll
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\bin\Debug\FirstExercise.pdb
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\minci\Desktop\Uczelnia\Programming Technologies\Zadanie1\FirstExercise\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
