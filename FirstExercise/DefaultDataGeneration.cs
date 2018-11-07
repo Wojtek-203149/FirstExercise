@@ -10,11 +10,11 @@ namespace FirstExercise
     {
         public void Fill(DataChamber data)
         {
-            Users user1 = new Users(1, "Wojtek", "Mincikiewicz", 1996);
-            Users user2 = new Users(2, "Kasia", "Kowalska", 1993);
-            Users user3 = new Users(3, "Michal", "Nowak", 1998);
-            Users user4 = new Users(4, "Andrzej", "Paluch", 1996);
-            Users user5 = new Users(5, "Mikolaj", "Malolepszy", 1997);
+            Users user1 = new Users(0, "Wojtek", "Mincikiewicz", 1996);
+            Users user2 = new Users(1, "Kasia", "Kowalska", 1993);
+            Users user3 = new Users(2, "Michal", "Nowak", 1998);
+            Users user4 = new Users(3, "Andrzej", "Paluch", 1996);
+            Users user5 = new Users(4, "Mikolaj", "Malolepszy", 1997);
 
             Catalog book1 = new Catalog("Andrzej", "Sapkowski", 1984, "The Witcher", 0);
             Catalog book2 = new Catalog("Harper", "Lee", 1960, "To Kill a Mockingbird", 1);

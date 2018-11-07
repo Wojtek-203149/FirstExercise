@@ -51,7 +51,7 @@ namespace FirstExercise
             this.releaseDate = releaseDate;
         }
 
-        public string getBookSate()
+        public string getBookState()
         {
             return this.bookState;
         }

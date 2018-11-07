@@ -241,7 +241,7 @@ namespace FirstExercise
             bool isEmpty = true;
             foreach (Event item in data.ReadAllEvents())
             {
-                if (item.getProcessState().getBookSate() == bookState)
+                if (item.getProcessState().getBookState() == bookState)
                 {
                     System.Console.WriteLine(item);
                     isEmpty = false;
